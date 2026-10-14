@@ -1,0 +1,10 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001
+## Title: EllesmereUI |cff0cd29fSpell Cost|r
+## Notes: Mana / rage / energy / focus cost on EllesmereUI action buttons. Settings: Action Bars > Bar Display > EXTRAS.
+## Author: Custom
+## Version: 1.1.1
+## Dependencies: EllesmereUI, EllesmereUIActionBars
+## IconTexture: Interface\AddOns\EllesmereUI\media\eg-logo.tga
+
+SpellCost.lua
+SpellCost_Options.lua
